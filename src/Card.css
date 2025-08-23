@@ -1,0 +1,21 @@
+.card-image {
+  width: 200px;
+  height: 300px;
+}
+
+.card-container {
+  position: relative;
+  cursor: pointer;
+}
+
+.card-button {
+  position: absolute;
+  bottom: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(251, 109, 14, 0.816);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 5px 10px;
+}

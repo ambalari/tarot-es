@@ -1,7 +1,9 @@
 import React from "react";
 import { createBrowserRouter } from "react-router-dom";
-import Home from "./pages/Home.jsx";
-import CardDetail from "./pages/CardDetail.jsx";
+import Home from "./Home";
+import CardDetail from "./CardDetail";
+
+
 
 
 // Rutas principales del nivel 1
